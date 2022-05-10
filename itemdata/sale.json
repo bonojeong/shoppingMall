@@ -1,0 +1,134 @@
+[
+    {
+        "id" : 0,
+        "name" : "폴스미스 시계",
+        "itemCode" : "BC5-415-71 (남성용)",
+        "beforePrice" :420000,
+        "price" : 191335
+    },
+
+    {
+        "id" : 1,
+        "name" : "마크제이콥스 향수",
+        "itemCode" : "Daisy Love Daze 50ml",
+        "beforePrice" : 87000,
+        "price" : 51175
+    },
+
+    {
+        "id" : 2,
+        "name" : "펜디(베트리나)",
+        "itemCode" : "01FENTFXC160AAQ43D6 FXC160AAQ4",
+        "beforePrice" :319000,
+        "price" : 205614
+    },
+    {
+        "id" : 3,
+        "name" : "다니엘웰링턴",
+        "itemCode" : "Classic 36 Bayswater S Black",
+        "beforePrice" :399000,
+        "price" : 194191
+    },
+    {
+        "id" : 4,
+        "name" : "수에노아",
+        "itemCode" : "Carat Bag - White",
+        "beforePrice" :187535,
+        "price" :  106233
+    },
+    {
+        "id" : 5,
+        "name" : "코튼 라보",
+        "itemCode" : "ORGANIC COTTON SANITARY NAPKIN 18ea",
+        "beforePrice" :8900,
+        "price" : 4797
+    },
+    {
+        "id" : 6,
+        "name" : "아쿠아 디 파르마",
+        "itemCode" : "MAGNOLIA NOBILE HAND CREAM 30 ML",
+        "beforePrice" :79000,
+        "price" :  44549
+    },
+    {
+        "id" : 7,
+        "name" : "설화수",
+        "itemCode" : "자음생 안티에이징 데일리 루틴(2종)",
+        "beforePrice" :199000,
+        "price" : 148499
+    },
+    {
+        "id" : 8,
+        "name" : "밍크엘레팡",
+        "itemCode" : "신생아 양말 선물세트_블루",
+        "beforePrice" :12000,
+        "price" : 6682
+    },
+    {
+        "id" : 9,
+        "name" : "화이트샌즈",
+        "itemCode" : "19SS 엘리스 샤랄라 리본 라피아햇 네츄럴",
+        "beforePrice" :72000,
+        "price" : 41122
+    },
+    {
+        "id" : 10,
+        "name" : "에르메스",
+        "itemCode" : "Terre d'Hermes, 오 드 뚜왈렛, 100 ml",
+        "price" : 140502
+    },
+     {
+        "id" : 11,
+        "name" : "에르메스",
+        "itemCode" : "Eau des Merveilles, 오 드 뚜알렛, 100ml",
+        "price" : 177056
+    },
+     {
+        "id" : 12,
+        "name" : "에르메스",
+        "itemCode" : "트윌리 데르메스 오 진저 오드퍼퓸 30ml",
+        "price" : 83387
+    },
+    {
+        "id" : 13,
+        "name" : "롱샴",
+        "itemCode" : "Le Pliage 2605089A23 20S",
+        "price" : 64539
+    },
+    {
+        "id" : 14,
+        "name" : "롱샴",
+        "itemCode" : "Le Pliage 10053089001 20S",
+        "price" : 73107
+    },
+    {
+        "id" : 15,
+        "name" : "발리",
+        "itemCode" : "SALDER.S/100 BLACK",
+        "price" : 139132
+    },
+    {
+        "id" : 16,
+        "name" : "브라운",
+        "itemCode" : "브라운3시리즈 방수면도기 3080S",
+        "price" : 147356
+    },
+    {
+        "id" : 17,
+        "name" : "오므론",
+        "itemCode" : "HV-F021 WH",
+        "price" : 61684
+    },
+    {
+        "id" : 18,
+        "name" : "리파",
+        "itemCode" : "BODY EXTREME",
+        "price" : 704285
+    },
+    {
+        "id" : 19,
+        "name" : "엔젯오리진",
+        "itemCode" : "[유통기한:2022-09-01]보스웰리아 2000 세트(60캡슐X2) / 4개월분",
+        "price" : 82245
+    }
+]
